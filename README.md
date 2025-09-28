@@ -1,8 +1,6 @@
 # Welcome to Panache AI
 
-**Our mission is to build the operating system for an intelligent web.** We are transforming static websites into dynamic, controllable platforms that understand and respond to human intentions.
-
-> **Final Mission Statement:** Panache will be the operating system that makes every website intelligent and controllable through natural language. From static interfaces to living, obedient platforms.
+**Our mission is to end frustrating navigation. We transform static websites into living interfaces that reconfigure themselves to instantly match a user's intent. No more clicks, no more searching. Just seamless obedience**
 
 ---
 
@@ -10,7 +8,7 @@
 
 The internet today is a collection of documents designed for human eyes. Panache is the infrastructure that makes this web **machine-readable and programmable**, creating a universal control protocol for AI agents.
 
-Our technology allows any website to become an "agent" that can be understood and piloted by AI, turning any URL into an AI-powered application.
+Our technology allows any website to become an "agent" that can be understood and piloted by AI, turning any URL into an AI-powered micro-application.
 
 ## 🏗️ The Panache Ecosystem: Our Core Components
 
